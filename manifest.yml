@@ -1,0 +1,12 @@
+modules:
+  'jira:issuePanel':
+    - key: test-forge-hello-world-panel
+      function: main
+      title: test-forge
+      description: A hello world issue panel.
+  function:
+    - key: main
+      handler: index.run
+app:
+  id: 'ari:cloud:ecosystem::app/896813d9-d19e-4f54-a4b1-3e8d84f7d4c6'
+  name: test-forge
