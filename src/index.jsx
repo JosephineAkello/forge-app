@@ -3,7 +3,7 @@ import ForgeUI, { render, Fragment, Text, IssuePanel } from '@forge/ui';
 const App = () => {
   return (
     <Fragment>
-      <Text>Hey there,!</Text>
+      <Text>User Enrollment</Text>
     </Fragment>
   );
 };
